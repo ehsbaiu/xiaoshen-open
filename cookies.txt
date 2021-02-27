@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.fandom.com	TRUE	/	FALSE	1999999999	wikia_beacon_id	rU9HZafIFi
+.fandom.com	TRUE	/	FALSE	1999999999	wikia_session_id	gCcJOYiAOw
+.fandom.com	TRUE	/	FALSE	1999999999	Geo	{%22region%22:%22SX%22%2C%22country%22:%22CN%22%2C%22continent%22:%22AS%22}
+xiaoshenbike.fandom.com	TRUE	/	FALSE	1999999999	SameSite	None
+.fandom.com	TRUE	/	FALSE	1999999999	fandom_feeds_hide_deleted	true
+.fandom.com	TRUE	/	FALSE	1999999999	wikicities_c8CreatePageDialog	deleted
+
