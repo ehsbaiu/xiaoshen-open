@@ -1,0 +1,611 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-Hant-TW">
+	<id>https://xiaoshenbike.fandom.com/zh-tw/api.php?hidebots=1&amp;urlversion=1&amp;days=7&amp;limit=50&amp;action=feedrecentchanges&amp;feedformat=atom</id>
+	<title>硝神 Wiki  - 近期變更 [zh-tw]</title>
+	<link rel="self" type="application/atom+xml" href="https://xiaoshenbike.fandom.com/zh-tw/api.php?hidebots=1&amp;urlversion=1&amp;days=7&amp;limit=50&amp;action=feedrecentchanges&amp;feedformat=atom"/>
+	<link rel="alternate" type="text/html" href="https://xiaoshenbike.fandom.com/zh-tw/wiki/%E7%89%B9%E6%AE%8A:%E8%BF%91%E6%9C%9F%E8%AE%8A%E5%8B%95"/>
+	<updated>2021-02-27T09:27:12Z</updated>
+	<subtitle>追蹤 Wiki 中此摘要的近期變更。</subtitle>
+	<generator>MediaWiki 1.33.3</generator>
+	<entry>
+		<id>https://xiaoshenbike.fandom.com/zh-tw/wiki/%E6%B5%85%E8%BD%BB?diff=467&amp;oldid=460</id>
+		<title>浅轻</title>
+		<link rel="alternate" type="text/html" href="https://xiaoshenbike.fandom.com/zh-tw/wiki/%E6%B5%85%E8%BD%BB?diff=467&amp;oldid=460"/>
+		<updated>2021-02-26T03:43:17Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class=&quot;diff diff-contentalign-left&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;zh-Hant-TW&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;←上個修訂&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;於 2021年2月26日 (五) 03:43 的修訂&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;4&quot; class=&quot;diff-multi&quot; lang=&quot;zh-Hant-TW&quot;&gt;（未顯示同一使用者於中間所作的 3 次修訂）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;行 1：&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;行 1：&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{DISPLAYTITLE:浅轻你妈死了}}&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{DISPLAYTITLE:浅轻你妈死了}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;-{T|zh-hans:浅轻;zh-tw:浅轻;}-&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{Noedit}}&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{Noedit}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{Featured}}&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{Featured}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;行 52：&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;行 53：&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;据悉，浅轻曾在网络上装女人诈骗，然而皮囊下却是一副连说话都说不利索、变声期还没到的初三小废物。可以说在令人心肺停止方面比起二次元人物'''神奈'''和'''乃爱'''都有过之而无不及。与胡云川一样，浅轻再次拉低了玩网人士的平均颜值。考虑到浅轻有着成为二次元美少女的夙愿，笔者认为浅轻可以划分到性别识别障碍的行列，希望非天赋党的浅轻能早日找到自己的归属性别。&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;据悉，浅轻曾在网络上装女人诈骗，然而皮囊下却是一副连说话都说不利索、变声期还没到的初三小废物。可以说在令人心肺停止方面比起二次元人物'''神奈'''和'''乃爱'''都有过之而无不及。与胡云川一样，浅轻再次拉低了玩网人士的平均颜值。考虑到浅轻有着成为二次元美少女的夙愿，笔者认为浅轻可以划分到性别识别障碍的行列，希望非天赋党的浅轻能早日找到自己的归属性别。&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;−&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;同时本站挖掘到：浅轻已经将自己的手机从OPPO &lt;del class=&quot;diffchange diffchange-inline&quot;&gt;Y93&lt;/del&gt;换为了可以让痴子头子[[梁伽豪]]代言的红米6，本站迫切希望浅轻能早日爱自己的手机如命，同时考虑到浅轻本人保护安全隐私程度极强，本站希望浅轻早日说出梁伽豪的知名语录「反正我的手机没有丢失」，保持良好的坦克级别的心态，或换回自己连虚拟按键都没有的OPPO手机继续在网上赠送自己的亲妈，打出连弱智都不屑一顾的迫真登峰造极的喷词，乃至连秒0.01都不到的烂糊扣字继续将三公破防到无法立足。反对[[三公]]，有硝有浅，，，&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;同时本站挖掘到：浅轻已经将自己&lt;ins class=&quot;diffchange diffchange-inline&quot;&gt;的捡来&lt;/ins&gt;的手机从OPPO &lt;ins class=&quot;diffchange diffchange-inline&quot;&gt;R7&amp;lt;ref&amp;gt;{{lang|en|[https://detail.zol.com.cn/series/57/19012_1.html OPPO-R7参数]}}&amp;lt;/ref&amp;gt;&lt;/ins&gt;换为了可以让痴子头子[[梁伽豪]]代言的红米6，本站迫切希望浅轻能早日爱自己的手机如命，同时考虑到浅轻本人保护安全隐私程度极强，本站希望浅轻早日说出梁伽豪的知名语录「反正我的手机没有丢失」，保持良好的坦克级别的心态，或换回自己连虚拟按键都没有的OPPO手机继续在网上赠送自己的亲妈，打出连弱智都不屑一顾的迫真登峰造极的喷词，乃至连秒0.01都不到的烂糊扣字继续将三公破防到无法立足。反对[[三公]]，有硝有浅，，，&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;浅轻擅长发展自己的徒弟和好兄弟下线为自己充当免费挡刀，比较典型的便是浅轻的好兄弟、墨辞的徒弟死终，两人曾一度共用一个手机号，导致死终差点被鹿小哈套出信息。浅轻在亲自开示三公手机号后又转瞬与其互相巴结，再次骗到了无国界被浅轻阵营的人士殴打。奉劝某些还在为浅轻充当免费挡刀的[[浅神阁/管理员开示|弱智舔狗]]能够迷途知返，体会一下来自三公的肺腑之言：“如果我一开始就与浅轻没有关系，也不会落到这个下场。”&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;浅轻擅长发展自己的徒弟和好兄弟下线为自己充当免费挡刀，比较典型的便是浅轻的好兄弟、墨辞的徒弟死终，两人曾一度共用一个手机号，导致死终差点被鹿小哈套出信息。浅轻在亲自开示三公手机号后又转瞬与其互相巴结，再次骗到了无国界被浅轻阵营的人士殴打。奉劝某些还在为浅轻充当免费挡刀的[[浅神阁/管理员开示|弱智舔狗]]能够迷途知返，体会一下来自三公的肺腑之言：“如果我一开始就与浅轻没有关系，也不会落到这个下场。”&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;行 59：&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;行 60：&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;浅轻为了追求不正当的精神刺激，公然在网络上利用文化大革命侮辱自己家人，损毁他人名誉权、隐私权、肖像权，如果这些行为都是本人所为即涉嫌违法。当你在网络上发现了浅轻正在拉起大便（尤其是性骚扰，售卖黑产路子等恶劣行为），不僅使用平台自带的举报功能，正确的举报方式是保存好证据（截图，网页快照，html文件等）并直接report给网警，助其成为少管所升级壬=）&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;浅轻为了追求不正当的精神刺激，公然在网络上利用文化大革命侮辱自己家人，损毁他人名誉权、隐私权、肖像权，如果这些行为都是本人所为即涉嫌违法。当你在网络上发现了浅轻正在拉起大便（尤其是性骚扰，售卖黑产路子等恶劣行为），不僅使用平台自带的举报功能，正确的举报方式是保存好证据（截图，网页快照，html文件等）并直接report给网警，助其成为少管所升级壬=）&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;−&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;==&lt;del class=&quot;diffchange diffchange-inline&quot;&gt;喷系战神&lt;/del&gt; ==&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;==&lt;ins class=&quot;diffchange diffchange-inline&quot;&gt; 弱智行径&lt;/ins&gt; ==&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;−&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;=== 迫真出道 ===&lt;/div&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty&quot;&gt;&amp;#160;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;−&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;浅轻曾以为自己同学宋某对自己的魔怔行为嘲笑，于是将其个人信息通过班级档案全部挖出，甚至将电话、身份证号码、电话全部挂在无国界二代进行大肆炒作，宣称自己是通过他的同学把他开了的。在喷圈疯狂挂该人的信息，现实也屡遭到几百次骚扰，导致宋某现在处于完完全全的自闭状态。&lt;/div&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty&quot;&gt;&amp;#160;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;−&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;=== 巴结无能 ===&lt;/div&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty&quot;&gt;&amp;#160;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;−&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;除此之外，浅轻巴结了喷圈内几十个声望较大的人，成功加入了拥有黑水版权的组织G.C.。&lt;/div&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty&quot;&gt;&amp;#160;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;=== 废物人妖 ===&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;=== 废物人妖 ===&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;浅轻为了在黑界同样获得名声，将自己伪装成女人在圈内供人发情，此也成了三公取乐浅轻的喙头。&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;浅轻为了在黑界同样获得名声，将自己伪装成女人在圈内供人发情，此也成了三公取乐浅轻的喙头。&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;行 69：&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;行 66：&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[file:生理缺陷.jpg]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[file:生理缺陷.jpg]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;同时浅轻很早就称其变声期还没到，可以看出其的雄性激素分泌过少，同时考虑浅轻献媚二次元少女，曾经装扮成女生，本站建议浅轻早点服用雌性激素改变性别，成为一名羡慕已久的美少女，谢谢。&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;同时浅轻很早就称其变声期还没到，可以看出其的雄性激素分泌过少，同时考虑浅轻献媚二次元少女，曾经装扮成女生，本站建议浅轻早点服用雌性激素改变性别，成为一名羡慕已久的美少女，谢谢。&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;=== 实锤事件 ===&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;前言：关于浅轻实锤于明星的视频本站已经通过网络各大渠道成功得到了补档，由于本站长大号登录暂时限制，导致本站长收藏的专栏存档无法及时获取，如有存档请各位提供到本站长邮箱{{lang|en|3532258190@qq.com}}，谢谢。&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== 反骨废物 ==&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== 反骨废物 ==&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;浅轻在圈内通过及其霸道的身份在圈内大肆反骨。&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;浅轻在圈内通过及其霸道的身份在圈内大肆反骨。&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key prod:zhtwxiaoshenbike:diff:wikidiff2:1.12:old-460:rev-467:1.11.0:0 --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Xiaoshenbike</name></author>
+		
+	</entry>
+	<entry>
+		<id>https://xiaoshenbike.fandom.com/zh-tw/wiki/%E6%B5%85%E8%BD%BB/%E7%9F%B3%E9%94%A4%E4%BA%8E%E5%B0%8F%E8%B4%B1%E8%A1%A5%E6%A1%A3?diff=463&amp;oldid=462</id>
+		<title>浅轻/石锤于小贱补档</title>
+		<link rel="alternate" type="text/html" href="https://xiaoshenbike.fandom.com/zh-tw/wiki/%E6%B5%85%E8%BD%BB/%E7%9F%B3%E9%94%A4%E4%BA%8E%E5%B0%8F%E8%B4%B1%E8%A1%A5%E6%A1%A3?diff=463&amp;oldid=462"/>
+		<updated>2021-02-25T17:04:34Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class=&quot;diff diff-contentalign-left&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;zh-Hant-TW&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;←上個修訂&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;於 2021年2月25日 (四) 17:04 的修訂&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;行 1：&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;行 1：&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;由于死妈维基的限制已经上传到本站长的私人云。&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;由于死妈维基的限制已经上传到本站长的私人云。&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;−&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[esubak.ys168.com 私人云地址]，在'''BAK/浅轻'''内，永久有效。&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[&lt;ins class=&quot;diffchange diffchange-inline&quot;&gt;http://&lt;/ins&gt;esubak.ys168.com 私人云地址]，在'''BAK/浅轻'''内，永久有效。&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key prod:zhtwxiaoshenbike:diff:wikidiff2:1.12:old-462:rev-463:1.11.0:0 --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Xiaoshenbike</name></author>
+		
+	</entry>
+	<entry>
+		<id>https://xiaoshenbike.fandom.com/zh-tw/wiki/%E6%B5%85%E8%BD%BB/%E7%9F%B3%E9%94%A4%E4%BA%8E%E5%B0%8F%E8%B4%B1%E8%A1%A5%E6%A1%A3?diff=462&amp;oldid=0</id>
+		<title>浅轻/石锤于小贱补档</title>
+		<link rel="alternate" type="text/html" href="https://xiaoshenbike.fandom.com/zh-tw/wiki/%E6%B5%85%E8%BD%BB/%E7%9F%B3%E9%94%A4%E4%BA%8E%E5%B0%8F%E8%B4%B1%E8%A1%A5%E6%A1%A3?diff=462&amp;oldid=0"/>
+		<updated>2021-02-25T17:04:10Z</updated>
+
+		<summary type="html">&lt;p&gt;已建立頁面，內容為 &amp;quot;由于死妈维基的限制已经上传到本站长的私人云。 [esubak.ys168.com 私人云地址]，在&amp;#039;&amp;#039;&amp;#039;BAK/浅轻&amp;#039;&amp;#039;&amp;#039;内，永久有效。&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;新頁面&lt;/b&gt;&lt;/p&gt;&lt;div&gt;由于死妈维基的限制已经上传到本站长的私人云。&lt;br /&gt;
+[esubak.ys168.com 私人云地址]，在'''BAK/浅轻'''内，永久有效。&lt;/div&gt;</summary>
+		<author><name>Xiaoshenbike</name></author>
+		
+	</entry>
+	<entry>
+		<id>https://xiaoshenbike.fandom.com/zh-tw/wiki/%E6%A8%A1%E6%9D%BF:%E5%85%AC%E5%91%8A?diff=461&amp;oldid=435</id>
+		<title>模板:公告</title>
+		<link rel="alternate" type="text/html" href="https://xiaoshenbike.fandom.com/zh-tw/wiki/%E6%A8%A1%E6%9D%BF:%E5%85%AC%E5%91%8A?diff=461&amp;oldid=435"/>
+		<updated>2021-02-25T16:58:19Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class=&quot;diff diff-contentalign-left&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;zh-Hant-TW&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;←上個修訂&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;於 2021年2月25日 (四) 16:58 的修訂&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;行 4：&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;行 4：&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{Color|red|本站遭到了人间之屑[[陈文亮]]的爆破，在各位雅士的恢复下完成了词条和样式的重建。}}&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{Color|red|本站遭到了人间之屑[[陈文亮]]的爆破，在各位雅士的恢复下完成了词条和样式的重建。}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;由于浅轻大佐不仅没有'''认清自己的错误'''，反而'''我行我素'''，态度'''及其恶劣'''，本站将公开浅轻群内的信息并在本站公开其在2020年3月～4月在bilibili发布已经删除的低级创作视频和迫真石锤稿件，请各位拭目以待。&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;−&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;该站点用来揭露某些“名人”“疯狗”,明里暗里做的龌龊的事&lt;/div&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty&quot;&gt;&amp;#160;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;−&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty&quot;&gt;&amp;#160;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;−&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;如果你遇到了某些人做出了让大众感觉恶心的事情，并不代表你就必须把它挂上本站点&lt;/div&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty&quot;&gt;&amp;#160;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;−&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty&quot;&gt;&amp;#160;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;−&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;一旦挂上，本站均不承担任何责任&lt;/div&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty&quot;&gt;&amp;#160;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;所有发布到本站的个人信息均需打码，如不打码，立刻删除。&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;所有发布到本站的个人信息均需打码，如不打码，立刻删除。&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;−&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[https://qm.qq.com/cgi-bin/qm/qr?k=u2Mm6fwABOZZqLAPzsIdcXbFQnyHsGI0&amp;amp;authKey=4D2Lw+O+yKfVyfzHq7V4va63KRt2Ng9sRoFU69o2CwoSfErjKxmNT/Wmg4KlMVNG&amp;amp;noverify=0 &amp;gt;&amp;gt;&amp;gt;点击加入硝神百科官方群&amp;lt;&amp;lt;&amp;lt;]&lt;/div&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty&quot;&gt;&amp;#160;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{color|red|PS:本站点禁止各类涉政敏感行为言论，一旦发现，立即封禁IP地址。}}&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{color|red|PS:本站点禁止各类涉政敏感行为言论，一旦发现，立即封禁IP地址。}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;−&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{color|red|本站希望各位雅士在新的一年里工作顺利，能过一个安稳的恶俗年。}}&lt;/div&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty&quot;&gt;&amp;#160;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt; &amp;lt;/center&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt; &amp;lt;/center&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key prod:zhtwxiaoshenbike:diff:wikidiff2:1.12:old-435:rev-461:1.11.0:0 --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Xiaoshenbike</name></author>
+		
+	</entry>
+	<entry>
+		<id>https://xiaoshenbike.fandom.com/zh-tw/wiki/%E6%B5%85%E8%BD%BB?diff=460&amp;oldid=457</id>
+		<title>浅轻</title>
+		<link rel="alternate" type="text/html" href="https://xiaoshenbike.fandom.com/zh-tw/wiki/%E6%B5%85%E8%BD%BB?diff=460&amp;oldid=457"/>
+		<updated>2021-02-20T13:33:17Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class=&quot;diff diff-contentalign-left&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;zh-Hant-TW&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;←上個修訂&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;於 2021年2月20日 (六) 13:33 的修訂&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;行 95：&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;行 95：&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== 争议 ==&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== 争议 ==&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[浅轻/较有争议的内容]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[浅轻/较有争议的内容]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== 世说新语 ==&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[浅轻/世说新语|世说新语]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== 脚注 ==&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== 脚注 ==&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&amp;lt;references/&amp;gt;&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&amp;lt;references/&amp;gt;&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key prod:zhtwxiaoshenbike:diff:wikidiff2:1.12:old-457:rev-460:1.11.0:0 --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Xiaoshenbike</name></author>
+		
+	</entry>
+	<entry>
+		<id>https://xiaoshenbike.fandom.com/zh-tw/wiki/%E6%B5%85%E8%BD%BB/%E4%B8%96%E8%AF%B4%E6%96%B0%E8%AF%AD?diff=459&amp;oldid=458</id>
+		<title>浅轻/世说新语</title>
+		<link rel="alternate" type="text/html" href="https://xiaoshenbike.fandom.com/zh-tw/wiki/%E6%B5%85%E8%BD%BB/%E4%B8%96%E8%AF%B4%E6%96%B0%E8%AF%AD?diff=459&amp;oldid=458"/>
+		<updated>2021-02-20T13:28:58Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class=&quot;diff diff-contentalign-left&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;zh-Hant-TW&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;←上個修訂&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;於 2021年2月20日 (六) 13:28 的修訂&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;行 5：&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;行 5：&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;#三公是玩网粪蛆，浅轻也是玩网粪蛆。&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;#三公是玩网粪蛆，浅轻也是玩网粪蛆。&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;#三公反骨了杨弘毅，而浅轻也擅长反骨背刺。&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;#三公反骨了杨弘毅，而浅轻也擅长反骨背刺。&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;浅轻是两个字，三公也是两个字。&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;−&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;数字论证待补充&lt;/div&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty&quot;&gt;&amp;#160;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;2=2&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;Q.E.D.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;==野兽先辈浅轻说==&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;==野兽先辈浅轻说==&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;#浅轻事男性，而野兽先辈毫无疑问也事男性。&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;#浅轻事男性，而野兽先辈毫无疑问也事男性。&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key prod:zhtwxiaoshenbike:diff:wikidiff2:1.12:old-458:rev-459:1.11.0:0 --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Xiaoshenbike</name></author>
+		
+	</entry>
+	<entry>
+		<id>https://xiaoshenbike.fandom.com/zh-tw/wiki/%E6%B5%85%E8%BD%BB/%E4%B8%96%E8%AF%B4%E6%96%B0%E8%AF%AD?diff=458&amp;oldid=0</id>
+		<title>浅轻/世说新语</title>
+		<link rel="alternate" type="text/html" href="https://xiaoshenbike.fandom.com/zh-tw/wiki/%E6%B5%85%E8%BD%BB/%E4%B8%96%E8%AF%B4%E6%96%B0%E8%AF%AD?diff=458&amp;oldid=0"/>
+		<updated>2021-02-20T13:27:41Z</updated>
+
+		<summary type="html">&lt;p&gt;已建立頁面，內容為 &amp;quot;==浅轻三公说== #三公是人，浅轻也是人。 #三公在圈内反骨别人名声败落，浅轻最后沦为圈内高层的奴隶，也是名声败落。 #…&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;新頁面&lt;/b&gt;&lt;/p&gt;&lt;div&gt;==浅轻三公说==&lt;br /&gt;
+#三公是人，浅轻也是人。&lt;br /&gt;
+#三公在圈内反骨别人名声败落，浅轻最后沦为圈内高层的奴隶，也是名声败落。&lt;br /&gt;
+#三公曾经装扮成女人，浅轻也曾装扮成女人在圈内恶心别人。&lt;br /&gt;
+#三公是玩网粪蛆，浅轻也是玩网粪蛆。&lt;br /&gt;
+#三公反骨了杨弘毅，而浅轻也擅长反骨背刺。&lt;br /&gt;
+数字论证待补充&lt;br /&gt;
+&lt;br /&gt;
+==野兽先辈浅轻说==&lt;br /&gt;
+#浅轻事男性，而野兽先辈毫无疑问也事男性。&lt;br /&gt;
+#野兽先辈在《真夏夜的银梦》中本色出演，事真实存在的人物；而浅轻也在三次元中真实存在。&lt;br /&gt;
+#浅轻比小学生年长，事先辈；野兽先辈24岁事学生，也事先辈。&lt;br /&gt;
+#野兽先辈雷普后辈，事屑；浅轻反骨，也事屑。&lt;br /&gt;
+#浅轻想要当上喷系高层，事王道征途；野兽先辈也崇尚王道征途。 &lt;br /&gt;
+#浅轻虽然反骨，但也有钱，具备屑鉴二象性。野兽先辈虽然雷普后辈，却爆破了nico本社，也具备屑鉴二象性。&lt;br /&gt;
+#浅轻很无力，想当上喷系高层，却连对自己好兄弟很好都办不到；野兽先辈崇尚王道征途，却在雷普后辈时被一转攻势，也很无力。&lt;br /&gt;
+#在这篇屑论证中，浅轻惨遭小鬼迫害；银梦已经dssq多年，先辈也惨遭十万甚至九万个小鬼迫害。&lt;br /&gt;
+数字论证：“浅轻”事2个字。2 = 1 + 1 + 4 - 5 + 1 ^ 4&lt;br /&gt;
+&lt;br /&gt;
+最后，没有任何证据表明浅轻一定不事野兽先辈。而基于以上论据，以及“如果一个东西长得像鸭子，游泳像鸭子，叫声像鸭子，那么它就是鸭子”的原理，我们可以完全确信，浅轻就事野兽先辈。&lt;br /&gt;
+&lt;br /&gt;
+Q. E. D.&lt;/div&gt;</summary>
+		<author><name>Xiaoshenbike</name></author>
+		
+	</entry>
+	<entry>
+		<id>https://xiaoshenbike.fandom.com/zh-tw/wiki/%E6%B5%85%E8%BD%BB?diff=457&amp;oldid=449</id>
+		<title>浅轻</title>
+		<link rel="alternate" type="text/html" href="https://xiaoshenbike.fandom.com/zh-tw/wiki/%E6%B5%85%E8%BD%BB?diff=457&amp;oldid=449"/>
+		<updated>2021-02-20T13:17:15Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class=&quot;diff diff-contentalign-left&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;zh-Hant-TW&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;←上個修訂&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;於 2021年2月20日 (六) 13:17 的修訂&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;行 51：&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;行 51：&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;据悉，浅轻曾在网络上装女人诈骗，然而皮囊下却是一副连说话都说不利索、变声期还没到的初三小废物。可以说在令人心肺停止方面比起二次元人物'''神奈'''和'''乃爱'''都有过之而无不及。与胡云川一样，浅轻再次拉低了玩网人士的平均颜值。考虑到浅轻有着成为二次元美少女的夙愿，笔者认为浅轻可以划分到性别识别障碍的行列，希望非天赋党的浅轻能早日找到自己的归属性别。&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;据悉，浅轻曾在网络上装女人诈骗，然而皮囊下却是一副连说话都说不利索、变声期还没到的初三小废物。可以说在令人心肺停止方面比起二次元人物'''神奈'''和'''乃爱'''都有过之而无不及。与胡云川一样，浅轻再次拉低了玩网人士的平均颜值。考虑到浅轻有着成为二次元美少女的夙愿，笔者认为浅轻可以划分到性别识别障碍的行列，希望非天赋党的浅轻能早日找到自己的归属性别。&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;同时本站挖掘到：浅轻已经将自己的手机从OPPO Y93换为了可以让痴子头子[[梁伽豪]]代言的红米6，本站迫切希望浅轻能早日爱自己的手机如命，同时考虑到浅轻本人保护安全隐私程度极强，本站希望浅轻早日说出梁伽豪的知名语录「反正我的手机没有丢失」，保持良好的坦克级别的心态，或换回自己连虚拟按键都没有的OPPO手机继续在网上赠送自己的亲妈，打出连弱智都不屑一顾的迫真登峰造极的喷词，乃至连秒0.01都不到的烂糊扣字继续将三公破防到无法立足。反对[[三公]]，有硝有浅，，，&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;浅轻擅长发展自己的徒弟和好兄弟下线为自己充当免费挡刀，比较典型的便是浅轻的好兄弟、墨辞的徒弟死终，两人曾一度共用一个手机号，导致死终差点被鹿小哈套出信息。浅轻在亲自开示三公手机号后又转瞬与其互相巴结，再次骗到了无国界被浅轻阵营的人士殴打。奉劝某些还在为浅轻充当免费挡刀的[[浅神阁/管理员开示|弱智舔狗]]能够迷途知返，体会一下来自三公的肺腑之言：“如果我一开始就与浅轻没有关系，也不会落到这个下场。”&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;浅轻擅长发展自己的徒弟和好兄弟下线为自己充当免费挡刀，比较典型的便是浅轻的好兄弟、墨辞的徒弟死终，两人曾一度共用一个手机号，导致死终差点被鹿小哈套出信息。浅轻在亲自开示三公手机号后又转瞬与其互相巴结，再次骗到了无国界被浅轻阵营的人士殴打。奉劝某些还在为浅轻充当免费挡刀的[[浅神阁/管理员开示|弱智舔狗]]能够迷途知返，体会一下来自三公的肺腑之言：“如果我一开始就与浅轻没有关系，也不会落到这个下场。”&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;行 57：&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;行 59：&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;浅轻为了追求不正当的精神刺激，公然在网络上利用文化大革命侮辱自己家人，损毁他人名誉权、隐私权、肖像权，如果这些行为都是本人所为即涉嫌违法。当你在网络上发现了浅轻正在拉起大便（尤其是性骚扰，售卖黑产路子等恶劣行为），不僅使用平台自带的举报功能，正确的举报方式是保存好证据（截图，网页快照，html文件等）并直接report给网警，助其成为少管所升级壬=）&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;浅轻为了追求不正当的精神刺激，公然在网络上利用文化大革命侮辱自己家人，损毁他人名誉权、隐私权、肖像权，如果这些行为都是本人所为即涉嫌违法。当你在网络上发现了浅轻正在拉起大便（尤其是性骚扰，售卖黑产路子等恶劣行为），不僅使用平台自带的举报功能，正确的举报方式是保存好证据（截图，网页快照，html文件等）并直接report给网警，助其成为少管所升级壬=）&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;−&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;==&lt;del class=&quot;diffchange diffchange-inline&quot;&gt;{{noedit}} &lt;/del&gt;喷系战神 ==&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;==喷系战神 ==&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;=== 迫真出道 ===&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;=== 迫真出道 ===&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;浅轻曾以为自己同学宋某对自己的魔怔行为嘲笑，于是将其个人信息通过班级档案全部挖出，甚至将电话、身份证号码、电话全部挂在无国界二代进行大肆炒作，宣称自己是通过他的同学把他开了的。在喷圈疯狂挂该人的信息，现实也屡遭到几百次骚扰，导致宋某现在处于完完全全的自闭状态。&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&amp;#160;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;浅轻曾以为自己同学宋某对自己的魔怔行为嘲笑，于是将其个人信息通过班级档案全部挖出，甚至将电话、身份证号码、电话全部挂在无国界二代进行大肆炒作，宣称自己是通过他的同学把他开了的。在喷圈疯狂挂该人的信息，现实也屡遭到几百次骚扰，导致宋某现在处于完完全全的自闭状态。&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key prod:zhtwxiaoshenbike:diff:wikidiff2:1.12:old-449:rev-457:1.11.0:0 --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Xiaoshenbike</name></author>
+		
+	</entry>
+</feed>
